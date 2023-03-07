@@ -13,11 +13,11 @@ morea_experiences:
   - experience-dart-for-java-developers
   - experience-dart-cool-features
 morea_assessments:
-  # - assessment-CHANGE-ME
+  - assessment-dart
 morea_type: module
 morea_icon_url: /morea/dart/dart.png
-morea_start_date: "2023-03-06"
-morea_end_date: "2023-03-13"
+morea_start_date: "2023-03-07"
+morea_end_date: "2023-03-14"
 morea_labels:
 morea_sort_order: 21
 ---
