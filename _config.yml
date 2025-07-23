@@ -4,7 +4,7 @@
 # SITE SPECIFIC: The following fields are typically changed for each site
 name: ICS 888 Spring 2023
 baseurl: /ics888s23
-morea_theme: cerulean-green
+morea_theme: cerulean-green 
 timezone: Pacific/Honolulu
 morea_navbar_items:
   # - Prerequisites
@@ -17,7 +17,7 @@ morea_navbar_items:
 logger_factory:
   Morea: error
 
-# MOREA PORTAL: The following fields are only needed if this site is part of a "Morea Portal".
+# MOREA PORTAL: The following fields are only needed if this site is part of a "Morea Portal". 
 morea_course: "ICS 888"
 morea_course_name: "ICS 888"
 morea_course_description: ""
